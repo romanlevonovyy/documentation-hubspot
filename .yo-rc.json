@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.levonovyy.hubspot"
+    },
+    "jhipsterVersion": "6.8.0",
+    "applicationType": "monolith",
+    "baseName": "hubspot",
+    "packageName": "com.levonovyy.hubspot",
+    "packageFolder": "com/levonovyy/hubspot",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZWY0ZGM4MDllOTNkZWIyMGM1MDliZWIyMjE0NDMyMjZmNGQ4OTk2OGU0NzViYTdmYTY4ZDAzOGE4ODc0ZWE5MmZmYmRmNmI0OWJlOTkxOWNlMjAwZGQ2YzZjMDhkNDA2NDc3MWVjNWUyMzExMjA2ODRlZGMzNDBmNDU5MWIzZGY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "lux",
+    "clientThemeVariant": "dark",
+    "creationTimestamp": 1588712079241,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
